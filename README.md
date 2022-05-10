@@ -7,5 +7,5 @@ Time Line of the Project:
     ->Feature Engineering
     ->Model Building using ML
     ->Model Building using Auto SK Learn
-
->>>>>>>>>>>>>>Procedural Description given in notebook<<<<<<<<<<<<<<
+    
+Procedural Description given in notebook
